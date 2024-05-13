@@ -1,3 +1,4 @@
+#Autor: Emanuel Herrera Briseño
 import subprocess
 
 def ejecutar(comando):
